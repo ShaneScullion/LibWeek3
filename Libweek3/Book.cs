@@ -35,7 +35,7 @@
         // Method to display information about a book
         public void DisplayInfo()
         {
-            Console.WriteLine($"Book Title: {Title}");
+            Console.WriteLine($"Book title: {Title}");
             Console.WriteLine($"Book Author: {Author}");
             Console.WriteLine($"Book ISBN: {ISBN}");
             Console.WriteLine();
